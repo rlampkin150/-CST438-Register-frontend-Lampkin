@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#studentName {
+  display:flex;
+flex-direction:row;
+flex-wrap:nowrap;
+}
+
+#studentEmail {
+  display:flex;
+flex-direction:row;
+flex-wrap:nowrap;
+}
+

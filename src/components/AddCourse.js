@@ -54,7 +54,7 @@ class AddCourse extends Component {
     }
 }
 
-// required property:  addCourse is a function to call to perform the Add action
+// required property:  addStudent is a function to call to perform the Add action
 AddCourse.propTypes = {
   addCourse : PropTypes.func.isRequired
 }
